@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "sessions": [
+  {
+   "id": "102",
+   "session": "第102回",
+   "year": 2025,
+   "examDate": "2025-10-19",
+   "level": "TOPIK I",
+   "path": "sessions/102/data.json",
+   "sections": {
+    "listening": {
+     "label": "聽力",
+     "from": 1,
+     "to": 30,
+     "count": 30,
+     "minutes": 40,
+     "total": 100
+    },
+    "reading": {
+     "label": "閱讀",
+     "from": 31,
+     "to": 70,
+     "count": 40,
+     "minutes": 60,
+     "total": 100
+    }
+   }
+  },
+  {
+   "id": "96",
+   "session": "第96回",
+   "year": 2024,
+   "examDate": "2024-10-13",
+   "level": "TOPIK I",
+   "path": "sessions/96/data.json",
+   "sections": {
+    "listening": {
+     "label": "聽力",
+     "from": 1,
+     "to": 30,
+     "count": 30,
+     "minutes": 40,
+     "total": 100
+    },
+    "reading": {
+     "label": "閱讀",
+     "from": 31,
+     "to": 70,
+     "count": 40,
+     "minutes": 60,
+     "total": 100
+    }
+   }
+  },
+  {
+   "id": "91",
+   "session": "第91回",
+   "year": 2023,
+   "examDate": "2023-10-15",
+   "level": "TOPIK I",
+   "path": "sessions/91/data.json",
+   "sections": {
+    "listening": {
+     "label": "聽力",
+     "from": 1,
+     "to": 30,
+     "count": 30,
+     "minutes": 40,
+     "total": 100
+    },
+    "reading": {
+     "label": "閱讀",
+     "from": 31,
+     "to": 70,
+     "count": 40,
+     "minutes": 60,
+     "total": 100
+    }
+   }
+  },
+  {
+   "id": "83",
+   "session": "第83回",
+   "year": 2022,
+   "examDate": "2022-07-10",
+   "level": "TOPIK I",
+   "path": "sessions/83/data.json",
+   "sections": {
+    "listening": {
+     "label": "聽力",
+     "from": 1,
+     "to": 30,
+     "count": 30,
+     "minutes": 40,
+     "total": 100
+    },
+    "reading": {
+     "label": "閱讀",
+     "from": 31,
+     "to": 70,
+     "count": 40,
+     "minutes": 60,
+     "total": 100
+    }
+   }
+  },
+  {
+   "id": "64",
+   "session": "第64回",
+   "year": 2019,
+   "examDate": "2019-05-19",
+   "level": "TOPIK I",
+   "path": "sessions/64/data.json",
+   "sections": {
+    "listening": {
+     "label": "聽力",
+     "from": 1,
+     "to": 30,
+     "count": 30,
+     "minutes": 40,
+     "total": 100
+    },
+    "reading": {
+     "label": "閱讀",
+     "from": 31,
+     "to": 70,
+     "count": 40,
+     "minutes": 60,
+     "total": 100
+    }
+   }
+  }
+ ]
+}
